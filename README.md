@@ -1,2 +1,3 @@
-# HRProject
-This is a HR management Project.
+HRProject
+
+HRProject is a github repository.
